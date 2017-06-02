@@ -1,0 +1,30 @@
+body{
+  font-family: 'Raleway', sans-serif;
+}
+h3{
+  color: white;
+}
+.bg{
+  background-image: url("../assets/backgrounds/landing.jpg");
+  background-attachment: fixed;
+  height: 100%;
+}
+.logo{
+  text-align: center;
+}
+.logo1{
+  margin: 3%;
+  z-index: -1000;
+  padding:-10%;
+}
+.text{
+  margin-top: -1%;
+}
+.happy{
+  background-color: #ccc;
+  color: #000;
+  padding-left: 10%;
+}
+.highl{
+  font-weight: bold;
+}
