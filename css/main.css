@@ -13,9 +13,29 @@ h3{
   background-image: url("../assets/backgrounds/foodsBg.jpg");
   background-attachment: fixed;
   height: 100%;
+  margin-left: -1%;
+}
+.butt{
+  padding: 6%;
+  width: 110%;
+}
+.mm{
+  color: black;
 }
 .logo{
   text-align: center;
+}
+.bck{
+  background-image: url("../assets/foodtop/breakfast.jpg");
+}
+.bmk{
+    background-image: url("../assets/foodtop/lunch.jpg")
+}
+.bjk{
+    background-image: url("../assets/foodtop/dinner.jpg")
+}
+.link{
+  margin: 30%;
 }
 .logo1{
   margin: 3%;
@@ -24,6 +44,9 @@ h3{
 }
 .text{
   margin-top: -1%;
+}
+.you{
+  height: 20%;
 }
 .happy{
   background-color: #ccc;
