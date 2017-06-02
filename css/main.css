@@ -9,6 +9,11 @@ h3{
   background-attachment: fixed;
   height: 100%;
 }
+.bg1{
+  background-image: url("../assets/backgrounds/landing.jpg");
+  background-attachment: fixed;
+  height: 100%;
+}
 .logo{
   text-align: center;
 }
@@ -27,4 +32,14 @@ h3{
 }
 .highl{
   font-weight: bold;
+}
+.mimi{
+  width:110%;
+}
+.nut{
+  color: white;
+
+}
+.mee{
+  margin-left: 2.5%;
 }
