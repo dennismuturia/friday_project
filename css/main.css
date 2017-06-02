@@ -4,10 +4,27 @@ body{
 h3{
   color: white;
 }
+.txt{
+  text-align: center;
+  color: white;
+}
+.btt{
+  margin-left: 105%;
+  margin-top: -15%;
+}
 .bg{
   background-image: url("../assets/backgrounds/landing.jpg");
   background-attachment: fixed;
   height: 100%;
+}
+.orange{
+  background-color: #F15A29;
+  width: 105%;
+  margin-left: -4%;
+}
+.wid{
+  width: 40%;
+  margin-left: 25%;
 }
 .bg1{
   background-image: url("../assets/backgrounds/foodsBg.jpg");
@@ -15,9 +32,16 @@ h3{
   height: 100%;
   margin-left: -1%;
 }
+.bg2{
+  background-image: url("../assets/backgrounds/subscribe.jpg");
+  background-attachment: fixed;
+  height: 100%;
+  margin-left: -1%;
+}
 .butt{
   padding: 6%;
   width: 110%;
+  margin-left: -5%
 }
 .mm{
   color: black;
